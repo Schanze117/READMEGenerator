@@ -1,10 +1,9 @@
-// TODO: Include packages needed for this application
 import inquirer from 'inquirer';
 import fs from 'fs';
 import generateMarkdown from './utils/generateMarkdown.js';
 
+// This is the code to create an array of questions for user input.
 function init() {
-    // TODO: Create an array of questions for user input
     
         
 
@@ -66,5 +65,4 @@ function init() {
         });
 }
 
-// Function call to initialize app
 init();
