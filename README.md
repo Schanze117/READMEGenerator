@@ -24,6 +24,9 @@
   ## Usage
   
   This is a work in progress. It works well, but it could always be better!
+
+  Here is a video showing how it works!
+  https://drive.google.com/file/d/196cwaqvRTrv2MoHOTkYoDcW1gnkqwtbf/view?usp=drive_link
       
   
   ## Credits
