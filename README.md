@@ -22,6 +22,11 @@
   ~
 
   ## Usage
+
+  Type this code into the command line in order to start the application.
+  ~
+  node ./index.js
+  ~
   
   This is a work in progress. It works well, but it could always be better!
 
